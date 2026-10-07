@@ -1,0 +1,22 @@
+Source attribution and redistribution boundaries
+
+Seoul traces: Seoul Metropolitan Government inundation trace map, OA-15636,
+https://data.seoul.go.kr/dataList/OA-15636/F/1/datasetView.do
+Catalog KOGL Type 1 attribution; no original GIS ZIP files are included.
+Dynamic World: Google with National Geographic Society and World Resources Institute,
+CC BY 4.0. Contains modified Copernicus Sentinel data [2015-present].
+Satellite Embedding: produced by Google and Google DeepMind, CC BY 4.0.
+MERIT Hydro v1_0_1: Yamazaki et al. (2019), doi:10.1029/2019WR024873;
+provider offers CC BY-NC 4.0 or ODbL 1.0 with respective restrictions.
+Copernicus DEM GLO30: European Union and ESA provider terms apply.
+© DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved.
+
+This review-asset archive does not relicense original provider products.
+It contains fixed derived prediction records and numerical summaries, not raw
+MERIT/Copernicus pixels, full feature tables, private credentials, or GIS archives.
+The source terms must accompany any eventual authorized release. A blanket CC BY
+license for all derived numeric data is not asserted here. The author/editor
+release route and the acceptability of a moderate-size data supplement remain to
+be confirmed before submission/public posting. This local preparation makes no
+publication or public upload. Native fitting/feature extraction is not rerun by
+the portable script; it verifies the central stored-score ranking and capture.

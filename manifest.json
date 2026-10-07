@@ -1,0 +1,229 @@
+{
+  "inputs": [
+    {
+      "source_stage": "B2",
+      "file": "data/B2_current_339.csv",
+      "rows": 674,
+      "source_sha256": "a7353d7f58703385853e0631d0c964c1dde1ac63140e406ef618536022e818fc",
+      "output_sha256": "0ab37c055886b60c4f5f0da534350eeaf6f8e6ebda45b7c4279e4ce2b6a64ad4",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B2",
+      "file": "data/B2_redraw_year_matched_20261005.csv",
+      "rows": 674,
+      "source_sha256": "e300f8f95bda7c26773655a60e053946823a2fc19b21b5c1dc2c7a983c42f4ca",
+      "output_sha256": "2b0849b4417ddadb42cb7b7f8a9c100ede7b9e6c821f3730229553f1e175acc1",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B2",
+      "file": "data/B2_all_eligible_657.csv",
+      "rows": 992,
+      "source_sha256": "c499e7ee7ab1c18d4b8102be20fce372d53028a7b90c1cf2fa38b22a2f1e40c2",
+      "output_sha256": "a97fc73feef60d888d2ef7fbd773d65d182065e61217dcca3e1dfcbfae1feba7",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B3",
+      "file": "data/B3_current_339.csv",
+      "rows": 604,
+      "source_sha256": "5603b27e774a940251f1888b9db317196641f2d91587a241a7698e9ea10a4b3b",
+      "output_sha256": "5bfcada64459c86c8d028b3c71ec833d88508ec5f9d0ecbc9f15b3bc2f13843a",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B3",
+      "file": "data/B3_redraw_year_matched_20261005.csv",
+      "rows": 604,
+      "source_sha256": "9a8351eee189457bca3731eaba7292600c18cd26dcd37c51ff825fbedc596474",
+      "output_sha256": "ce6c2abc2643a5ac37e624d96f744fd0aacb09fbeaebea769a87b5fa97ff43df",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B3",
+      "file": "data/B3_all_eligible_657.csv",
+      "rows": 870,
+      "source_sha256": "3ef480eb92df7dc9289675095503d2d3d766576cc4130b0d453a45861067967f",
+      "output_sha256": "c2a2631f89636b78272b4cdb40e324de9087b5e6c5ef5fd8b97528f693139dd5",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_current_339_0m.csv",
+      "rows": 604,
+      "source_sha256": "1a6baeafe6790169e7a506c7e4d0a280fe14a28ca5f72edf64348524f4d8fe9c",
+      "output_sha256": "cc6f69364b417928c0f3191b3e2adf99e8745bc8d07b611335d91c755e42bfde",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_current_339_250m.csv",
+      "rows": 604,
+      "source_sha256": "81f2dfc45aea42f502b821cb8f89998f31a7e6eb1df9d4e5cc2fea0567d3bc5d",
+      "output_sha256": "291631b3bc1650798224d8fd6ec66c4fe3511967a8ecf52903af325d39fe07d1",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_current_339_500m.csv",
+      "rows": 604,
+      "source_sha256": "25e7bdab7ed1abfcf6e7af7b78c98adfc15b55bbaac514deee868b0488630a94",
+      "output_sha256": "0c670996888ecf8d2685f2519f0c44c6acf2cb6cfde0a0448e1598fed0215f28",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_redraw_year_matched_20261005_0m.csv",
+      "rows": 604,
+      "source_sha256": "cb7ba42cf7c6246fe5bf393825323b2d5d3bcb76045301fe637538dc6441a38c",
+      "output_sha256": "5f30844eee12cc14e9f816bec215b8e2f351952db6f8ff49068da3b5c892182f",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_redraw_year_matched_20261005_250m.csv",
+      "rows": 604,
+      "source_sha256": "1149cfc892a8c1e26595cd51ef0142f540996028077505a1c5d1daa68554d769",
+      "output_sha256": "bd9062d9d9fe852daeb9c452a0a7e081248c5c0afc2715fa7c5f47f20b19b49a",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_redraw_year_matched_20261005_500m.csv",
+      "rows": 604,
+      "source_sha256": "cfa8f54532c9d7fd9d8d7a76e1be01201bef13e7661d7f733370c0c0907a92c6",
+      "output_sha256": "ce2dd2ea58c894b5632f5bf69a9714f198147b9bdaf606d66dcd26d27e5b6fdb",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_all_eligible_657_0m.csv",
+      "rows": 870,
+      "source_sha256": "795c01781ea957e77acba0ded5e67713d05d5c398c4e780711cc150c241b50ca",
+      "output_sha256": "49860eb5bb93b6f5f2369ac2a4502b4976cf77fef2e0180c454b6b63705efe59",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_all_eligible_657_250m.csv",
+      "rows": 870,
+      "source_sha256": "153380b8c33f404f555954e9ceacac5d662510b12e97f2a244f537a9fb2081a6",
+      "output_sha256": "a7a7583479c29e127c2f15aee54c89eac2c8a6cd0798b7a697761422b08c54c3",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B4",
+      "file": "data/B4_all_eligible_657_500m.csv",
+      "rows": 870,
+      "source_sha256": "ae472642c128c9d73a8eb1ae92af950a17e0e8273b826acbff8b2eda2f2e1af1",
+      "output_sha256": "7b0f9b8ab8a7c723839fda5d76148849a11a7334e64819807a7b9b3aad899903",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B5",
+      "file": "data/B5_primary_current_339.csv",
+      "rows": 604,
+      "source_sha256": "84ee7cb7cb4a3b093c8fd15362c2663f32e99b00f56a952015976906c79f21b7",
+      "output_sha256": "09f1cba473803d02e721542da36137137400e5aebe521f073d7eb12a5a96ef9a",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B5",
+      "file": "data/B5_primary_redraw_year_matched_20261005.csv",
+      "rows": 604,
+      "source_sha256": "c1b70051812b96ea0a99751cf36ba5de4f94fc2bb632765c96556933967868e7",
+      "output_sha256": "e0e8420f4d26ff76712b2881f18d61f546a50afdb44e1697f19fa2aa5c16ff14",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "source_stage": "B5",
+      "file": "data/B5_primary_all_eligible_657.csv",
+      "rows": 870,
+      "source_sha256": "e0dabfbb8e1f23cea776350fdc5d11f90e19c78e4a9194c30779dc5dd341c8df",
+      "output_sha256": "a450a508637bcb7a51c684a127aa4e4ea2090a64cbae1ead58059528538ab44a",
+      "change": "site_key replaced by stable opaque site_id; B2 raw feature/coordinates omitted; predictions/labels/row IDs/folds exact"
+    },
+    {
+      "file": "summaries/B0_metrics_pooled.csv",
+      "source_sha256": "8872dde83dbb92f17b198f079897d40c9e1b3749c4ba328055a8d5aee9b0087e",
+      "output_sha256": "27022825520fd90291f87a5637b9d212879414485d38a91a6f4709e4dbff99a9",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B2_metrics_pooled.csv",
+      "source_sha256": "076e4d4ea38adbfb2bf39e6ba9da505ea0f387e2e1e67f55d55b588ca20572ec",
+      "output_sha256": "d57622d57aaeff79fb9cd59cacd262b3388a3bfe9da65ef2346db0d8d3dfd196",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B2_metrics_by_fold.csv",
+      "source_sha256": "d082472d97c52eb301df92c69b9bd435e8fa6c2d280030d248db66c4614ea396",
+      "output_sha256": "13d23b0e9a80c1b938e7a9f8a96419f7d77bcde7ce6d18a68b42aaca86b0f419",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B3_paired_cluster_bootstrap.csv",
+      "source_sha256": "acd66e4d5b0ade8ed5ea05ac5a06a491feacf3ccf254b3ba1f3ef2704c90f60a",
+      "output_sha256": "d2c7125563c3a65ec4a73778399924454bddf6fe85950bf580da94057688477b",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B4_paired_cluster_bootstrap.csv",
+      "source_sha256": "77fd9216609f286df8caa8270eb3f3ecfdaae56c8c78908bc8f223e017113629",
+      "output_sha256": "a84b73437446898895079d77dab2c64e86c4404d59f5b5d0c494b6c026c21701",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B4_training_fold_counts.csv",
+      "source_sha256": "bfabe62e2f54a52537a80cf72e6db19798d13efb3fc100b288adc4e9ceafc7cc",
+      "output_sha256": "6922612a18b55928124a8228ba138cd528b756d518c9e9b47f111265e873a22d",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B5_paired_cluster_bootstrap.csv",
+      "source_sha256": "b34953c67512721debb93b2ea88fa98f2031c7ea50404531182dbf4a34bda092",
+      "output_sha256": "ad53528744037dbab8647b1d64893b45dc333becbae694e7ef3cfcd9c15d09e7",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B5_seed_distribution.csv",
+      "source_sha256": "2fa3bde253390177f324b45a7e6670f6d4b30b84bcd07e85f9c8512013f778af",
+      "output_sha256": "bff60e5440f638aae7fc114b0164341cded652fce42d0846997f6e98a15b56bb",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B5_influence_year_omissions.csv",
+      "source_sha256": "528b5c0d504ab15fc37a41152ad4f33f7865b9b11e495018ff69f54a087a9118",
+      "output_sha256": "8f5e84ecc38914ebee56e7176f8b1cf629ef629cdb74515c6ccbb0ee171ce889",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/B5_influence_district_omissions.csv",
+      "source_sha256": "27bafdca09233165a40e9e1c2fe03f83f69bb7dc074e5d1b0cbc67e38f5fdec5",
+      "output_sha256": "e0f46899320198b04f2db3fee4ddcb5fa50f58a6cf487652a2465ff7ce8e36f4",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/DSS_capture_20261006_capture_at_budgets.csv",
+      "source_sha256": "162ab818f72327916b9cab9a40105a652575aeaaed97daef62fd3ee2dc6c84c6",
+      "output_sha256": "7bb318cfa85265320bb9dffb10f0a02e943985f3ad179476f5ad582c47257130",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    },
+    {
+      "file": "summaries/DSS_capture_20261006_capture_curves.csv",
+      "source_sha256": "b1363165d0fbb79d1d077f7336966070a0cab901c46a34bc6e49e359155ca14c",
+      "output_sha256": "9dcbca166885c9ebaf2169a7506d8df4833ab809825d00e1b69777a858b7a1c4",
+      "change": "numeric summary copied as parsed CSV; no new analysis"
+    }
+  ],
+  "runtime": "Python3 standard library, no external dependencies",
+  "unpacked_rows_use": "recorded labels and stored scores; no verified-dry/EWS performance implication",
+  "raw_assets_omitted": [
+    "original Seoul GIS ZIPs",
+    "raw MERIT/Copernicus/DW/embedding rasters",
+    "full raw geographic feature tables"
+  ],
+  "site_id": "SHA256 original five-decimal site key; cross-file cluster equality preserved",
+  "release_status": "local review asset; editor clearance/release license route pending"
+}
