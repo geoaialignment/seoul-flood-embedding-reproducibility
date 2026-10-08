@@ -2,8 +2,7 @@
 
 Eungyu Park, Taeyu Kim, and Jangwon Park
 
-1. GeoAI Alignment, Inc., Daegu 41544, Republic of Korea
-2. School of Earth System Sciences, Kyungpook National University, Daegu 41566, Republic of Korea
+GeoAI Alignment, Inc., Daegu 41544, Republic of Korea
 
 ## Reproduce the reported numerical checks
 
@@ -47,6 +46,7 @@ are obtained from the sources documented in `SOURCE_LICENSES.txt`.
 Repository: https://github.com/geoaialignment/seoul-flood-embedding-reproducibility
 
 Use the title and authors in `CITATION.cff` when citing this numerical package.
-Code and derived-data licensing are pending author selection before public
-publication. Third-party products retain their stated terms and attribution;
+This repository is publicly accessible. Licenses for the repository's code and
+derived data have not yet been selected by the authors.
+Third-party products retain their stated terms and attribution;
 `SOURCE_LICENSES.txt` records these boundaries.
