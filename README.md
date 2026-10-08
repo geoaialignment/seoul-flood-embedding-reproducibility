@@ -46,7 +46,20 @@ are obtained from the sources documented in `SOURCE_LICENSES.txt`.
 Repository: https://github.com/geoaialignment/seoul-flood-embedding-reproducibility
 
 Use the title and authors in `CITATION.cff` when citing this numerical package.
-This repository is publicly accessible. Licenses for the repository's code and
-derived data have not yet been selected by the authors.
-Third-party products retain their stated terms and attribution;
-`SOURCE_LICENSES.txt` records these boundaries.
+This repository is publicly accessible for **noncommercial academic use**.
+Original code, documentation, and original contributions to derived data and
+numerical summaries are provided under the
+[GeoAI Alignment Academic Noncommercial Use License, version 1.0](LICENSE).
+
+- Permitted purposes: noncommercial academic research, teaching and learning,
+  scholarly peer review, and verification or reproduction of research results.
+- Credit the authors and GeoAI Alignment, Inc., cite this research package,
+  identify modifications, and retain the license and source notices when sharing.
+- Commercial use and non-academic operational deployment are not permitted
+  under this license; uses outside its scope require separate prior written
+  permission. Contact: contact@geoaialign.com.
+
+The full terms in `LICENSE` govern. This is a custom academic noncommercial
+license, not an unrestricted open-source license. Third-party materials retain
+their own terms; our license applies only to rights we are authorized to grant
+in original contributions. See [SOURCE_LICENSES.txt](SOURCE_LICENSES.txt).

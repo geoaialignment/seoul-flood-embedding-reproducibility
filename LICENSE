@@ -1,0 +1,74 @@
+GeoAI Alignment Academic Noncommercial Use License
+Version 1.0
+
+Copyright (c) 2026 the respective rights holders.
+
+1. Scope
+
+GeoAI Alignment, Inc. makes the original code, documentation, and original
+contributions to the derived data and numerical summaries in this repository
+(the Materials) available under these terms, solely to the extent it is
+authorized to license the applicable rights. Ownership is not transferred.
+Third-party materials and rights are excluded; see Section 5.
+
+2. Permitted purposes
+
+Permission is granted, free of charge, to use, copy, run, study, modify, and
+redistribute the Materials solely for noncommercial academic research,
+academic teaching and learning, scholarly peer review, and verification or
+reproduction of published research results, subject to these terms.
+
+Noncommercial means not primarily intended for commercial advantage or
+monetary compensation. The purpose of the use, rather than the user's
+institutional affiliation alone, determines whether it is permitted.
+Publication of scholarly findings in journals or conference proceedings,
+including those published by commercial publishers, is permitted when the
+underlying use satisfies these academic and noncommercial requirements.
+
+3. Conditions
+
+Retain this license, copyright notices, and applicable third-party notices
+in copies and redistributions of the Materials, including modified versions.
+Give appropriate credit to the authors identified in CITATION.cff and to
+GeoAI Alignment, Inc.; include the repository URL and identify modifications.
+When publishing research based on the Materials, cite the research package
+using CITATION.cff. Do not imply endorsement by the authors or the company.
+
+Redistributed Materials, including modified versions, must remain subject to
+these terms. Recipients must receive this license and the applicable source
+attributions. These conditions apply to the Materials incorporated into a
+new work, not to independently created scholarly findings or text.
+
+4. Uses outside this permission
+
+Commercial use, sale or paid provision of the Materials, incorporation into
+commercial products or services, commercial consulting or contract analysis,
+and non-academic operational deployment are not permitted by this license.
+Other uses outside Section 2 are likewise not permitted by this license.
+Any such use requires separate prior written permission from the relevant
+rights holders. Permission inquiries: contact@geoaialign.com.
+
+5. Third-party materials and statutory rights
+
+The Materials do not relicense underlying third-party datasets, software,
+or other third-party content. SOURCE_LICENSES.txt records source attributions
+and applicable provider terms. This license applies only to rights that
+GeoAI Alignment, Inc. is authorized to grant in its original contributions.
+It neither restricts rights independently granted by third parties nor grants
+additional rights to their materials. Users must comply with applicable
+third-party terms and obtain any additional permissions they require.
+Public-domain elements and uses permitted by statutory exceptions or
+limitations are not restricted by this license.
+
+6. No warranty or endorsement
+
+To the extent permitted by applicable law, the Materials are provided
+"AS IS", without warranties of any kind. The authors and rights holders
+are not liable for damages arising from use of the Materials. No trademark
+rights or right to claim endorsement are granted.
+
+7. Termination
+
+Permission under this license terminates if you fail to comply with its
+terms. Rights not expressly granted are reserved. This is a custom academic
+noncommercial license, not an unrestricted open-source license.

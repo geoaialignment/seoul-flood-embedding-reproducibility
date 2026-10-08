@@ -14,8 +14,12 @@ Copernicus DEM GLO30: European Union and ESA provider terms apply.
 This review-asset archive does not relicense original provider products.
 It contains fixed derived prediction records and numerical summaries, not raw
 MERIT/Copernicus pixels, full feature tables, private credentials, or GIS archives.
-This repository is publicly accessible. Licenses for the repository's code and
-derived data have not yet been selected by the authors. The source terms and
-attribution remain applicable; a blanket CC BY license for all derived numeric
-data is not asserted here. Native fitting/feature extraction is not rerun by
+Original code, documentation, and original contributions to derived data and
+numerical summaries are offered under the GeoAI Alignment Academic
+Noncommercial Use License, version 1.0 (see LICENSE), solely to the extent
+GeoAI Alignment, Inc. is authorized to license those rights. This does not
+relicense third-party content or restrict permissions independently granted by
+its providers. Their terms and attribution requirements remain applicable;
+no blanket license over all underlying source data is asserted here.
+Native fitting/feature extraction is not rerun by
 the portable script; it verifies the central stored-score ranking and capture.

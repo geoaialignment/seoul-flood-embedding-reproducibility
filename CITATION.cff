@@ -3,6 +3,7 @@ message: "Please cite this research numerical package using the authors and titl
 type: software
 title: "Annual embeddings separate official inundation traces from storm-candidate backgrounds beyond terrain and land cover"
 repository-code: "https://github.com/geoaialignment/seoul-flood-embedding-reproducibility"
+license-url: "https://github.com/geoaialignment/seoul-flood-embedding-reproducibility/blob/main/LICENSE"
 authors:
   - family-names: "Park"
     given-names: "Eungyu"
